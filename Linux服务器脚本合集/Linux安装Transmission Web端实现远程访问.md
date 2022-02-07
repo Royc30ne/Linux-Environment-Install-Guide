@@ -149,4 +149,4 @@ bash install-tr-control-cn.sh
 
 # 在浏览器通过ip:port进入Transmission的Web端页面
 
-![transmission.png](Linux%E5%AE%89%E8%A3%85Transmission%20Web%E7%AB%AF%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%20b31efc23f5b94553a3bda7276243c3ab/transmission.png)
+![transmission.png](Linux%E5%AE%89%E8%A3%85Transmission%20Web%E7%AB%AF%E5%AE%9E%E7%8E%B0%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE/transmission.png)
