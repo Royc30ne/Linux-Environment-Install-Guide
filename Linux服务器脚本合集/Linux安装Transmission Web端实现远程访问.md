@@ -118,7 +118,7 @@ vim /var/lib/transmission-daemon/.config/transmission-daemon/settings.json
 
 # 放行Transmission Web端口这里为9091，具体方法跳转至下文
 
-[Linux服务器脚本合集](https://github.com/Royc30ne/Linux-Environment-Install-Guide/blob/main/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86/Linux%E9%98%B2%E7%81%AB%E5%A2%99%E6%94%BE%E8%A1%8C%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%B3%95.md)
+[Linux端口放行方法](https://github.com/Royc30ne/Linux-Environment-Install-Guide/blob/main/Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%84%9A%E6%9C%AC%E5%90%88%E9%9B%86/Linux%E9%98%B2%E7%81%AB%E5%A2%99%E6%94%BE%E8%A1%8C%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%B3%95.md)
 
 # 启动Transmission后台服务
 
